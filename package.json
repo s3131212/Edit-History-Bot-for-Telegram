@@ -1,0 +1,13 @@
+{
+  "name": "Edit-History-Bot-for-Telegram",
+  "version": "1.0.0",
+  "description": "A Telegram bot that log the message edit history",
+  "main": "app.js",
+  "author": "Allen Chou",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "node-telegram-bot-api": "^0.28.0",
+    "sqlite3": "^3.1.9"
+  }
+}
